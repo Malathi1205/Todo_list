@@ -1,9 +1,11 @@
 # Todo_list
 To-Do List Program
+
 Description
 A simple command-line To-Do List program written in Python that allows users to add, delete, view, and count tasks. The program uses a MySQL database to store tasks.
 
 Features
+
 Add one or more tasks to the To-Do List
 Delete one or more tasks from the To-Do List
 View all tasks in the To-Do List
@@ -19,6 +21,7 @@ Install the required library: pip install pymysql
 Create a MySQL database named todolist on your localhost
 Update the database connection settings in DB_HOST, DB_USER, DB_PASSWORD, and DB_NAME variables in the code
 Run the program: python main.py
+
 Usage
 Run the program: python main.py
 Follow the menu prompts to add, delete, view, or count tasks
